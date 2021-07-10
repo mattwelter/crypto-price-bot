@@ -3,6 +3,13 @@
 
 This is a Twitter bot template. The bot is able to post your desired Cryptocurrency's price & 24hr percent every 15 minutes.
 
+### LIVE Cryptocurrency Bots (using this template)
+- [Ethereum](https://twitter.com/EthPriceData)
+- [Dogecoin](https://twitter.com/DogePriceData)
+- [Chainlink](https://twitter.com/ChainlinkPrice)
+- [Helium](https://twitter.com/HeliumPrice)
+- [Ripple](https://twitter.com/RipplePriceBot)
+
 ### Dependencies
 - [datetime](https://docs.python.org/3/library/datetime.html)
 - [tweepy](https://www.tweepy.org/)
