@@ -22,10 +22,9 @@ This is a Twitter bot template. The bot is able to post your desired Cryptocurre
 
 ### "How do I get acess to the Twitter dev API?"
 
-**It's a lot easier and faster than you might think.** Real people are reviewing your requests. Be _honest_. The only reason they will deny your request is if you're not specific enough / are trying to use the API for mal intent.
-
 https://developer.twitter.com/en/apply-for-access
 
+**Steps:**
 1. Apply for dev account
 2. Hobbyist > Making a bot > Get started
 3. Fill out email, phone, name, country. Click next
