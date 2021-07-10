@@ -1,7 +1,6 @@
 import datetime
 from time import sleep
 import tweepy
-import selenium
 import requests
 from bs4 import BeautifulSoup as bs
 from requests_html import HTMLSession
