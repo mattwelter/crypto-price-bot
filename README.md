@@ -16,7 +16,7 @@ This is a Twitter bot template. The bot is able to post your desired Cryptocurre
 1. [Download this repo](https://github.com/mattwelter/crypto-price-bot/archive/refs/heads/main.zip)
 2. Open Terminal or Command Prompt
 3. Set location to directory ``cd /path/to/dir``
-4. Start the program ``python crypto_tw_bot.py``
+4. Start the program ``python twitter_bot.py``
 
 ## FAQ
 
