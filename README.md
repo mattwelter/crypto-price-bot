@@ -25,3 +25,31 @@ This is a Twitter bot template. The bot is able to post your desired Cryptocurre
 **It's a lot easier and faster than you might think.** Real people are reviewing your requests. Be _honest_. The only reason they will deny your request is if you're not specific enough / are trying to use the API for mal intent.
 
 https://developer.twitter.com/en/apply-for-access
+
+1. Apply for dev account
+2. Hobbyist > Making a bot > Get started
+3. Fill out email, phone, name, country. Click next
+4. "How will you use the Twitter API or Twitter Data?"
+
+**Here is exactly what I said:**
+```
+Core use case: I’m creating a Twitter account that post the
+cryptocurrency $ETH price & 24hr percentage every 15 minutes.
+No other automation is being used, no messaging, no liking,
+no retweeting, no following, I am only automating tweeting.
+I am web scraping coinmarketcap.com and posting the price and
+% data using the Twitter API. This helps the crypto Twitter
+community know what the price is without having to leave
+Twitter.
+
+I’m creating a few Twitter automation accounts that post the
+cryptocurrency price of a few coins every 15 minutes. No other
+automation is being used. I am web scraping coinmarketcap.com
+and posting the price and % data using the Twitter API.
+```
+
+5. "Are you planning to Analyze Twitter data? -> NO
+6. "Will your app use Tweet, Retweet, Like, Follow, or Direct Message functionality?" -> NO
+7. "Do you plan to display Tweets or aggregate data about Twitter content outside Twitter?" -> NO
+8. "Will your product, service, or analysis make Twitter content or derived information available to a government entity?" -> NO
+9. Review information > Submit application
